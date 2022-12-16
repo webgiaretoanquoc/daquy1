@@ -1,0 +1,672 @@
+Uri: https://daquy1.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://daquy1.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/mega_main_menu/framework/src/css/icomoon.css?ver=2.1.3
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\mega_main_menu\framework\src\css\icomoon.css
+Content Type: text/css
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/mega_main_menu/framework/src/fonts/icomoon.eot
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\mega_main_menu\framework\src\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/mega_main_menu/framework/src/fonts/icomoon.eot?
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\mega_main_menu\framework\src\fonts\icomoon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/mega_main_menu/framework/src/fonts/icomoon.svg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\mega_main_menu\framework\src\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/mega_main_menu/framework/src/fonts/icomoon.ttf
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\mega_main_menu\framework\src\fonts\icomoon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/mega_main_menu/src/css/cache.skin.css?ver=1496531951
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\mega_main_menu\src\css\cache.skin.css
+Content Type: text/css
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/mega_main_menu/src/js/frontend.js?ver=6.1
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\mega_main_menu\src\js\frontend.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.0.1
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.0.1
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.0.1
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.5.2
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.5.2
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.0
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.0
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.0
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.0
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/banephai-200x70.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\banephai-200x70.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/banephai.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\banephai.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/banner11-2-200x70.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\banner11-2-200x70.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/banner11-2-510x179.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\banner11-2-510x179.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/banner11-2-768x269.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\banner11-2-768x269.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/banner11-2-800x280.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\banner11-2-800x280.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/banner11-2.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\banner11-2.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/banner2-3-200x70.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\banner2-3-200x70.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/banner2-3-510x179.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\banner2-3-510x179.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/banner2-3-768x269.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\banner2-3-768x269.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/banner2-3-800x280.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\banner2-3-800x280.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/banner2-3.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\banner2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/bannertrai-200x70.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\bannertrai-200x70.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/bannertrai.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\bannertrai.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/bo-luc-binh-tranh-dia-hoang-gia-xanh-100x100.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\bo-luc-binh-tranh-dia-hoang-gia-xanh-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/bo-luc-binh-tranh-dia-hoang-gia-xanh-200x200.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\bo-luc-binh-tranh-dia-hoang-gia-xanh-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/bo-luc-binh-tranh-dia-hoang-gia-xanh-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\bo-luc-binh-tranh-dia-hoang-gia-xanh-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/bo-luc-binh-tranh-dia-hoang-gia-xanh-400x400.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\bo-luc-binh-tranh-dia-hoang-gia-xanh-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/bo-luc-binh-tranh-dia-hoang-gia-xanh.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\bo-luc-binh-tranh-dia-hoang-gia-xanh.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/bo-luc-binh-tranh-dia-hoang-gia-xanh_1_-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\bo-luc-binh-tranh-dia-hoang-gia-xanh_1_-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/cropped-logo-180x180.png
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\cropped-logo-180x180.png
+Content Type: image/png
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/cropped-logo-192x192.png
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\cropped-logo-192x192.png
+Content Type: image/png
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/cropped-logo-32x32.png
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\cropped-logo-32x32.png
+Content Type: image/png
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/da-mat-ho-vang-nau_1_-100x100.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\da-mat-ho-vang-nau_1_-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/da-mat-ho-vang-nau_1_-200x200.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\da-mat-ho-vang-nau_1_-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/da-mat-ho-vang-nau_1_-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\da-mat-ho-vang-nau_1_-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/da-mat-ho-vang-nau_1_-400x400.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\da-mat-ho-vang-nau_1_-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/da-mat-ho-vang-nau_1_.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\da-mat-ho-vang-nau_1_.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/da-mat-ho-vang-nau_8_-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\da-mat-ho-vang-nau_8_-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/doi-tuong-ky-lan-nhu-y-phat-tai-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\doi-tuong-ky-lan-nhu-y-phat-tai-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/doi-tuong-ky-lan-nhu-y-phat-tai-1-200x200.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\doi-tuong-ky-lan-nhu-y-phat-tai-1-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/doi-tuong-ky-lan-nhu-y-phat-tai-1-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\doi-tuong-ky-lan-nhu-y-phat-tai-1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/doi-tuong-ky-lan-nhu-y-phat-tai-1-400x400.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\doi-tuong-ky-lan-nhu-y-phat-tai-1-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/doi-tuong-ky-lan-nhu-y-phat-tai-1.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\doi-tuong-ky-lan-nhu-y-phat-tai-1.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/doi-tuong-ky-lan-nhu-y-phat-tai-3-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\doi-tuong-ky-lan-nhu-y-phat-tai-3-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/ho-lo-phong-thuy_4_-100x100.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\ho-lo-phong-thuy_4_-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/ho-lo-phong-thuy_4_-200x200.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\ho-lo-phong-thuy_4_-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/ho-lo-phong-thuy_4_-400x400.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\ho-lo-phong-thuy_4_-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/ho-lo-phong-thuy_4_.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\ho-lo-phong-thuy_4_.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/hotline-200x108.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\hotline-200x108.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/hotline.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\hotline.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/icon.png
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\icon.png
+Content Type: image/png
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/img_0440-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\img_0440-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/loc-200x70.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\loc-200x70.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/loc.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\loc.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/logo.png
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\logo.png
+Content Type: image/png
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/my-nghe-cham-khac-nga-voi-bua-toi-cuoi-cung-2-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\my-nghe-cham-khac-nga-voi-bua-toi-cuoi-cung-2-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/my-nghe-cham-khac-nga-voi-bua-toi-cuoi-cung-6-100x100.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\my-nghe-cham-khac-nga-voi-bua-toi-cuoi-cung-6-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/my-nghe-cham-khac-nga-voi-bua-toi-cuoi-cung-6-200x200.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\my-nghe-cham-khac-nga-voi-bua-toi-cuoi-cung-6-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/my-nghe-cham-khac-nga-voi-bua-toi-cuoi-cung-6-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\my-nghe-cham-khac-nga-voi-bua-toi-cuoi-cung-6-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/my-nghe-cham-khac-nga-voi-bua-toi-cuoi-cung-6-400x400.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\my-nghe-cham-khac-nga-voi-bua-toi-cuoi-cung-6-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/my-nghe-cham-khac-nga-voi-bua-toi-cuoi-cung-6.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\my-nghe-cham-khac-nga-voi-bua-toi-cuoi-cung-6.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/nenheader.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\nenheader.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/nentren-200x69.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\nentren-200x69.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/nentren-510x177.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\nentren-510x177.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/nentren-768x266.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\nentren-768x266.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/nentren-800x277.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\nentren-800x277.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/nentren.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\nentren.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/ngua-phong-thuy-lap-ma-phat-tai-71-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\ngua-phong-thuy-lap-ma-phat-tai-71-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/ngua1-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\ngua1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/phat-200x70.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\phat-200x70.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/phat.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\phat.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/tin-200x70.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\tin-200x70.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/tin.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\tin.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/tuong-phat-di-lac-bo-bo-cao-thang-1-1-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\tuong-phat-di-lac-bo-bo-cao-thang-1-1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/tuong-phat-di-lac-bo-bo-cao-thang-1-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\tuong-phat-di-lac-bo-bo-cao-thang-1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/tuong-phat-di-lac-bo-bo-cao-thang-2-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\tuong-phat-di-lac-bo-bo-cao-thang-2-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vat-pham-phong-thuy-tam-duong-khai-thai-mau-ngoc-bich-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vat-pham-phong-thuy-tam-duong-khai-thai-mau-ngoc-bich-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vat-pham-phong-thuy-tam-duong-khai-thai-mau-ngoc-bich-1-200x200.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vat-pham-phong-thuy-tam-duong-khai-thai-mau-ngoc-bich-1-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vat-pham-phong-thuy-tam-duong-khai-thai-mau-ngoc-bich-1-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vat-pham-phong-thuy-tam-duong-khai-thai-mau-ngoc-bich-1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vat-pham-phong-thuy-tam-duong-khai-thai-mau-ngoc-bich-1-400x400.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vat-pham-phong-thuy-tam-duong-khai-thai-mau-ngoc-bich-1-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vat-pham-phong-thuy-tam-duong-khai-thai-mau-ngoc-bich-1.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vat-pham-phong-thuy-tam-duong-khai-thai-mau-ngoc-bich-1.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vayfooter.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vayfooter.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-da-ma-nao-trang_1_-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-da-ma-nao-trang_1_-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-da-ma-nao-trang_3_-100x100.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-da-ma-nao-trang_3_-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-da-ma-nao-trang_3_-200x200.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-da-ma-nao-trang_3_-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-da-ma-nao-trang_3_-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-da-ma-nao-trang_3_-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-da-ma-nao-trang_3_-400x400.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-da-ma-nao-trang_3_-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-da-ma-nao-trang_3_.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-da-ma-nao-trang_3_.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-da-mat-ho-tam-vang_10_-100x100.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-da-mat-ho-tam-vang_10_-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-da-mat-ho-tam-vang_10_-200x200.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-da-mat-ho-tam-vang_10_-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-da-mat-ho-tam-vang_10_-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-da-mat-ho-tam-vang_10_-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-da-mat-ho-tam-vang_10_-400x400.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-da-mat-ho-tam-vang_10_-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-da-mat-ho-tam-vang_10_.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-da-mat-ho-tam-vang_10_.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-da-mat-ho-tam-vang_6_-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-da-mat-ho-tam-vang_6_-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-dan-huong-do_1__2-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-dan-huong-do_1__2-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-dan-huong-do_2__2-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-dan-huong-do_2__2-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-dan-huong-xanh_4_-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-dan-huong-xanh_4_-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-dan-huong-xanh_5__2-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-dan-huong-xanh_5__2-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-huyet-rong_8_-100x100.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-huyet-rong_8_-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-huyet-rong_8_-200x200.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-huyet-rong_8_-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-huyet-rong_8_-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-huyet-rong_8_-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-huyet-rong_8_-400x400.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-huyet-rong_8_-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-huyet-rong_8_.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-huyet-rong_8_.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-tram-huong-ho-soc_2__2-100x100.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-tram-huong-ho-soc_2__2-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-tram-huong-ho-soc_2__2-200x200.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-tram-huong-ho-soc_2__2-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-tram-huong-ho-soc_2__2-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-tram-huong-ho-soc_2__2-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-tram-huong-ho-soc_2__2-400x400.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-tram-huong-ho-soc_2__2-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-tram-huong-ho-soc_2__2.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-tram-huong-ho-soc_2__2.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-go-tram-huong-ho-soc_3_-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-go-tram-huong-ho-soc_3_-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-thach-anh-toc-xanh_2_-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-thach-anh-toc-xanh_2_-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-content/uploads/2017/06/vong-tay-thach-anh-toc-xanh_6_-247x296.jpg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-content\uploads\2017\06\vong-tay-thach-anh-toc-xanh_6_-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://daquy1.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://daquy1.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://daquy1.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://daquy1.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://daquy1.webtudong8giay.com/xmlrpc.php
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\xmlrpc.php.html
+Content Type: text/html
+
+Uri: https://daquy1.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\xmlrpc.php-1.html
+Content Type: text/html
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/css/all.css?ver=2.0.2
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css?ver=2.0.2
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\daquy1.webtudong8giay.com\releases\v5.15.4\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
